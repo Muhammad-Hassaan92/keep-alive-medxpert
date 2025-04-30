@@ -20,5 +20,5 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Run keep_alive.py  
+      - name: Run keep-alive.py  
         run: python keep_alive.py
